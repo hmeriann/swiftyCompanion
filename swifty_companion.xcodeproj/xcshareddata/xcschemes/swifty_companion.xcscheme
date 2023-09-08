@@ -61,6 +61,18 @@
             ReferencedContainer = "container:swifty_companion.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "SECRET"
+            value = "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"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "UID"
+            value = "fd018336ae27ca0008145cf91632254239433a6646ee6441f1c1e28b48962c29"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
